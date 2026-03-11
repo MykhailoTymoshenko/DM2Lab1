@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f18a47e7-2e72-4388-9f1c-e3adf36b638d" name="Changes" comment="Implemented Adam Gradient Descent">
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+    <list default="true" id="f18a47e7-2e72-4388-9f1c-e3adf36b638d" name="Changes" comment="Fixed some outputs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771615704584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed some outputs">
+      <option name="closed" value="true" />
+      <created>1771616704342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771616704342</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +114,7 @@
     <MESSAGE value="Added visualization" />
     <MESSAGE value="Finished implementing Constant Gradient Descent" />
     <MESSAGE value="Implemented Adam Gradient Descent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented Adam Gradient Descent" />
+    <MESSAGE value="Fixed some outputs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some outputs" />
   </component>
 </project>
