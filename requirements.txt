@@ -2,3 +2,5 @@ ipykernel
 numpy
 sympy
 matplotlib
+tensorflow
+pandas
